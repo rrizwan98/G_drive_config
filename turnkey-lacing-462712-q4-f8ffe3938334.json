@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "turnkey-lacing-462712-q4",
+  "private_key_id": "f8ffe393833472331fc3babcb62538b01aaefa96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCSiTxDp7M4Kai/\nwEAOUkAEUIAv0kR7VwHhUU1rgSb50LzyqW/QKkKo+zF1An7J0uorOrA4TjRQwqVs\nQbjr4yO5wr5KZJ4XXlKGUd2O0mXw6WJ6D6rKy9sbtHMD0icVXPLvhSCVJ4dCa1CK\njhin8LGuNhRmDnsFM4PMieUiFKzh66tHBBfxyMRcNoL+NiL9UapQ9N+3cBJWc4i4\noaz4yE//mL32L/PyIIJy6oi5Nex6XWdlz6sMn8DITjTxZn442Z8jQBrf2Ut3lESF\nhtdw1SnNZ00LgI8VRmXHlCONGC3+UKy3WEzkgnVqNIqbVfvmZ9kX52TnwPgypCNt\nfylOuBC1AgMBAAECggEAALFxfYhvipZ32+BW7TpqXxraYF+IP2Ub9yrhSN7lhkz8\nd9FhXAS3KAF4LGuEmgPLY8T1TG7iRHeHPMnazBLY+mn3aHatYMLrdQMyHxjTrp4L\n/zPPxQHN2YWy/ZOi57D23Tct/kaflyrWyLD/YNv8myxaUFlFL7Mcrn0AfnbGkpL+\n+HMSaKENYjtJGgt4M0wuJBLC0RgA+TP/nrf49QYkba+POyVwpx4hW7yqdq96NNBS\nRjoDlRXSVvFAAub5lncUFlZy+6RkO7pHkimkqtnbHmUehvDXnWqCIgLNsedxe0No\n7MoQKQcN6URwr4Uc7oIRAAEVIyvfJJA0/o4ulkNYwQKBgQDN8bbBs9H+n4aPUZL+\nkCInY2U+W6oUTAgFU4B7d6NiUT5zBDdYhejl6PygUZpPIiaCNRDI+nb0N1tMM9Q7\norImzgFrHGQ1V7Z99hhHmOj8xpyO2JVUNflVJ1k/qk0DkPVw/4/TlyzbVGM0deFD\nQHpqQNFfKhgHbuNO4heQ0qxDnQKBgQC2JwWb20/y7AgJssWfqfsfnzDA2+vshyPQ\nbblo1h7GLzA+zRTZuTJDdhcIUi+F+0nQ6yPKCmS7a0z10+EiBEMXXrYp6E8zwU0D\nTgQsVqoi6N3NA4r6Pv4o+KTWFrSM8L/TgHbCuVZ6cF3DL4gq7B9jOHaGW2GpYthR\ncAHnZPpx+QKBgQCqsVAHpnJD95bAzRznrzEPsntkvvbuEcKIH5ibPSMHR01aaUEy\nNvM9M+nHOzuJoUWHoFIEMkxLyGH8e+zJbOT58r8MNyD7cXLJXiLrnNpnQHrcjrje\nbkn1AUMg2JcygIBeIwPjnSZJt9zty1Jkull8HbMrjCkUaB0w8YYUu/iZpQKBgQCj\nBlO3xVZNpUAgZfcHyltuVsyMn4gMnnrITZvWn2TVnWBBpMzXfC/nPuaoVN4hvOC4\n8eqLJjg3oXY0whhJmKTvYp4I7dkNCiFCJu4HPN1y9xWkKlqVVBGnW7ozvgiD5+jX\ng69G4hfq52yTh5QITmJdLCiwYVMMBeJzKJsbnT2lCQKBgQCfEufljTOPPaFrL5rB\nOlRkUuVjigy1kSVaKoqCS10UgK/mTtCyskkG/wvxwFcpotnxP+E/qOTXhUD52m6Q\nhhCVkRF+3B2pQYf/tEOxzzNQmfCz8WFIOlqOPUByCFAMp8R+aPHti0jmN282bo+2\nT/FUKxUk6CwQUa/Pgyz8uNGd6Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-drive@turnkey-lacing-462712-q4.iam.gserviceaccount.com",
+  "client_id": "112802810104272945164",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-drive%40turnkey-lacing-462712-q4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
